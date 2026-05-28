@@ -14,8 +14,6 @@
   <a href="mailto:alexander.aqa@pm.me"><img width="64px" alt="mail" title="mail" src="https://img.icons8.com/?size=64&id=3AYCSzCO85Qw&format=png&color=1E88E5"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/alexander-aqa/"><img width="64px" alt="linkedin" title="linkedin" src="https://img.icons8.com/?size=64&id=13930&format=png&color=1E88E5"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/alexander7aqa"><img width="64px" alt="telegram" title="telegram" src="https://img.icons8.com/?size=64&id=63306&format=png&color=1E88E5"/></a>
 </p>
 
 <p align="center">
